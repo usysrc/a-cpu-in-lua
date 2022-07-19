@@ -39,6 +39,10 @@ local FDX = function()
 	end
 end
 
+
+--[[
+	This is the program: Fill the A register with a 1.
+]]
 MEM = { "0x00", "0x01", "0x00", "0x01","0x00" }
 
 FDX()
